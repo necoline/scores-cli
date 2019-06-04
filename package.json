@@ -1,0 +1,15 @@
+{
+  "name": "scores-cli",
+  "version": "1.0.0",
+  "scripts": {},
+  "bin": {
+    "scores": "bin/scores"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-node": "^9.1.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
